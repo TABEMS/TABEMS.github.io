@@ -1,0 +1,39 @@
+body, h1, h2, h3, p {
+    margin:0;
+    padding:0;
+}
+body{
+    background-color: #ded6d1;
+}
+
+body{ 
+    font-family: 'Roboto', sans-serif;
+    color:#0a0a0a;
+    font-weight: 400;
+    font-style: regular;
+}
+body{
+    line-height:25px;
+    font-size: 18px;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+    color:#0a0a0a;
+    font-weight: 400;
+    font-style:regular;
+    line-height:25px;
+    margin:0;
+    padding:0;
+}
+
+section {
+    background-color: #ded6d1;
+    padding: 20px;
+}
+form {
+    display: flex;
+    flex-direction: column;max-width: 600px;
+}
+.background-white{
+    background-color: white;
+}
